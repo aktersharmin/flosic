@@ -1,3 +1,7 @@
+# This script reads the DIPOLE file from all subdirectories in the current directory.
+# Author: Sharmin Akter
+# Last modified: 02/10/2021
+
 import os, sys
 from glob import glob
 
